@@ -1,0 +1,13 @@
+Name: Bala Vineeth Netha Thatipamula
+
+Clemson Email Address: bthatip@clemson.edu
+
+Project no: 2
+
+Project due date: 29th Sept 2017 (8 AM)
+
+Project description: To write a Flex program that accepts a text input and output the text upside down and backwards.
+
+The easiest part of this project: Using of Stack and Map made the problem simple.
+
+Problems that I had in completing this project: Tried to create the map by reading the code.txt line-by-line but was not successful as, I had some problem with the unicode conversion. Eventually, I hardcoded the map with the respective upside-down strings.

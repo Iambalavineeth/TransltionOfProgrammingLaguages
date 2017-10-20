@@ -1,0 +1,15 @@
+Name: Bala Vineeth Netha Thatipamula
+
+Clemson Email Address: bthatip@clemson.edu	
+
+Project no: 3
+
+Project due date: 13th OCT 2017 (8 AM)
+
+Project description: To make changes in Scanner and Parser and compute McCabe's complexity number for all the functions present in Python program and also to add test-cases in cases directory.
+
+The easiest part of this project: 1. I have used bottom-up approach to find the McCabe's number. Calculating the McCabe's number was easy but was slightly tricky.
+				  2. Calculating the McCabe's number for the LOOP(while or for) and IF block were easy.  
+					
+Problems that I had in completing this project: 1. Clearing the memory was the problem, I tried my best to clear all the meomory leaks. I think there are some still reachable blocks that can be cleared.
+						2. Getting McCabe's number for CLASS and TRY-EXCEPT-FINALLY Blocks were tricky, especially getting names of nested Classes and computing McCabe's number for Try-Except when finally is present. 
