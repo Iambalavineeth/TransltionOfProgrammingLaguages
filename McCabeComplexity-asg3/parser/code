@@ -1,0 +1,1 @@
+%type<number> if_stmt star_ELIF while_stmt for_stmt funcdef opt_FINALLY stmt plus_stmt suite simple_stmt compound_stmt try_stmt with_stmt decorators classdef decorator decorated plus_except opt_ELSE small_stmt star_SEMI_small_stmt with_item star_COMMA_with_item opt_testlist testlist test lambdef opt_IF_ELSE

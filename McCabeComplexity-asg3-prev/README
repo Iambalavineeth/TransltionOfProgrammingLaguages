@@ -1,0 +1,15 @@
+Name: Bala Vineeth Netha Thatipamula
+
+Clemson Email Address: bthatip@clemson.edu
+
+Project no: 3
+
+Project due date: 13th OCT 2017 (8 AM)
+
+Project description: To make changes in Scanner and Parser and compute McCabe's complexity number for all the functions present in Python program and also to add test-cases in cases directory.
+
+The easiest part of this project: Computing the McCabe number for functions which did not involve try-except block.
+
+Problems that I had in completing this project: 1. Finally has caused multiple issues while writing the code, had to introduce a flag to check whether finally appeared or not in the function.
+                                                2. Initially had problems with getting the name of the function, resolved it after seeing the typedStack example.
+                                                3. There were no definite memory leaks, but there were 5 blocks of memory which was still reachable.
