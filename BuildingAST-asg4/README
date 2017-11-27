@@ -1,0 +1,17 @@
+Name: Bala Vineeth Netha Thatipamula
+
+Clemson Email Address: bthatip@clemson.edu
+
+Project no: 4
+
+Project due date: 14th NOV 2017 (8 AM)
+
+Project description: Design and implement an Abstract Syntax Tree (AST) to represent and interpret Python code, handling assignments, variables, integers, float values.
+
+The easiest part of this project: 1. This project was similar to previous one, used bottom-up approach to go from bottom of the parse tree to evaluate assignments, integers and floats.
+																	2. Building an AST tree for variables, assignment statements, integers and floats
+																	3. Object Oriented principles along with the Singleton framework made the work easy
+
+Problems that I had in completing this project: 1. Identifying the correct nodes and adding the semantic actions accordingly for them was tricky.
+																								2. Modifying the parse.y was confusing as it was a very large file with lot of nodes  
+																								2. Clearing the memory was the problem, I tried my best to clear all the meomory leaks.
